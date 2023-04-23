@@ -1,0 +1,23 @@
+div.container {
+    width: 100%;
+}
+div.header {
+    background-color: lemonchiffon;
+    /*margin-bottom: 0;*/
+}
+div.menu {
+    width: 120px;
+    background-color: darkred;
+    float: left;
+    height: 600px;
+}
+div.content {
+    margin-left: 120px;
+    background-color: antiquewhite;
+    height: 600px;
+}
+div.footer {
+    text-align: center;
+    background-color: lemonchiffon;
+    clear: both;
+}
